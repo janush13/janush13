@@ -112,26 +112,6 @@ and candidate assessment modules.
 
 <img src="https://streak-stats.demolab.com?user=janush13&theme=tokyonight"/>
 
-
----
-
-# 👨‍💻 Profile Summary
-
-
-🎓 Computer Science Engineering undergraduate at **Sri Sairam Engineering College**
-
-Passionate about building software solutions with strong foundations in:
-
-- Artificial Intelligence
-- Full Stack Development
-- Problem Solving
-- Software Engineering Practices
-
-
-I enjoy transforming ideas into scalable applications,
-exploring new technologies, and continuously improving my technical skills.
-
-
 ---
 
 # 📫 Let's Connect
