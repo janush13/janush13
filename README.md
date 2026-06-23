@@ -60,14 +60,6 @@ Building impactful digital solutions through code, creativity, and continuous le
 
 ---
 
-## 📚 Core Concepts
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Software Project Management
-
-
----
 
 # 🏆 Achievements & Leadership
 
