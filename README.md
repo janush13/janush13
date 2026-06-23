@@ -58,24 +58,6 @@ Building impactful digital solutions through code, creativity, and continuous le
 
 </p>
 
-
----
-
-## 🔧 Tools & Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux"/>
-
-</p>
-
-
 ---
 
 ## 📚 Core Concepts
