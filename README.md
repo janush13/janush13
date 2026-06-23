@@ -1,87 +1,81 @@
 <h1 align="center">Hi 👋, I'm Janush D</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Aspiring Software Developer
+🚀 Aspiring Software Developer | AI & Full Stack Enthusiast
 </h3>
 
----
+<p align="center">
+Building impactful digital solutions through code, creativity, and continuous learning.
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=janush13&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-I'm a Computer Science Engineering undergraduate at 
-Sri Sairam Engineering College with a strong foundation in programming,
-problem-solving, and software development.
-
-I am passionate about building real-world applications and exploring
-Artificial Intelligence, Full Stack Development, and modern technologies.
-
-I enjoy creating scalable solutions, collaborating in teams,
-and continuously improving my technical skills.
 
 ---
 
-## 💼 Experience
+## 👨‍💻 Profile Summary
 
-### 🚀 Full Stack Developer Intern — Maestrominds
+🎓 Computer Science Engineering undergraduate at **Sri Sairam Engineering College**
 
-**June 2025 - July 2025**
+💡 Passionate about developing real-world software solutions with strong foundations in:
 
-- Developed features for an AI-powered HR platform including resume screening,
-interview tracking, and candidate assessment.
-- Built and optimized frontend components to improve performance and user experience.
-- Collaborated with a 10-member cross-functional team in an Agile environment.
+- Artificial Intelligence
+- Full Stack Development
+- Data Structures & Algorithms
+- Software Engineering Practices
 
----
+I enjoy transforming ideas into scalable applications while continuously improving my technical and problem-solving skills.
 
-## 🚀 Projects
-
-### 🤖 HR-AI Replacement
-
-- Built an AI-powered HR platform with resume screening,
-interview tracking, and candidate assessment modules.
-- Designed frontend components improving usability and workflow efficiency.
-- Streamlined recruitment processes by reducing manual effort.
 
 ---
 
-### 👑 Crown Care
+# 💼 Professional Experience
 
-- Developed an AI-based hair health analysis system generating personalized insights.
-- Designed features for early detection of scalp issues.
-- Implemented recommendation modules for personalized treatment suggestions.
+
+## 🚀 Full Stack Developer Intern  
+### Maestrominds | June 2025 - July 2025
+
+- Developed and enhanced features for an AI-driven HR platform.
+- Worked on modules including:
+  - Resume Screening
+  - Interview Tracking
+  - Candidate Assessment
+- Designed responsive frontend components to improve user experience.
+- Collaborated with a 10-member Agile development team.
+
 
 ---
 
-### 🛒 Crackers Craze
+# 🏆 Achievements & Leadership
 
-- Designed and developed a responsive ecommerce-style web platform.
-- Built modern UI components and secure authentication features.
-- Improved user experience across devices through optimized frontend development.
 
----
+## 🌍 AI–SDG Hackathon 2026 | Build2Gether
 
-## 🏆 Achievements & Activities
+🥇 Ranked **12th among 500+ teams**
 
-### 🌍 AI–SDG Hackathon 2026 — Build2Gether
-
-- Secured 12th place among 500+ teams in a 24-hour international hackathon.
 - Developed an AI-powered mentorship and skill exchange platform.
-- Addressed SDG 5 – Gender Equality through technology.
+- Addressed **SDG 5 - Gender Equality** through technology.
+- Built solutions supporting collaboration and learning.
+
 
 ---
 
-### 💰 Treasurer — Makkalil Oruvan Foundation
+## 💰 Treasurer  
+### Makkalil Oruvan Foundation
 
-- Managed financial records and tracked expenses for 10+ events.
-- Coordinated and executed events ensuring smooth operations.
-- Maintained transparency by monitoring organizational funds.
+- Managed financial records and budgeting activities.
+- Coordinated 10+ organizational events.
+- Maintained transparency in fund management.
+
 
 ---
 
-# 🛠️ My Tech Stack
+# 🛠️ Technical Arsenal
 
 
-## 💻 Programming Languages
+## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
@@ -92,7 +86,7 @@ interview tracking, and candidate assessment modules.
 
 ---
 
-## 🌐 Frontend & Design
+## 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 
@@ -107,7 +101,7 @@ interview tracking, and candidate assessment modules.
 
 ---
 
-## ⚙️ Backend & Databases
+## ⚙️ Backend & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
@@ -116,7 +110,7 @@ interview tracking, and candidate assessment modules.
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔧 Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
@@ -129,49 +123,57 @@ interview tracking, and candidate assessment modules.
 
 ---
 
-## 📚 Core Concepts
+# 📚 Core Knowledge
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Software Project Management
+✔ Object-Oriented Programming (OOP)
 
+✔ Data Structures & Algorithms (DSA)
 
----
-
-## 📜 Certifications
-
-- Full Stack Web Development (Udemy - Ongoing)
-- Python Essentials (Cisco NetAcad)
-- Networking Essentials (Cisco Networking Academy)
+✔ Software Project Management
 
 
 ---
 
-## 📊 GitHub Stats
-
-![Janush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janush13&show_icons=true&theme=tokyonight)
+# 📊 GitHub Analytics
 
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=janush13&show_icons=true&theme=tokyonight"/>
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=janush13&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janush13&layout=compact&theme=tokyonight"/>
 
 
 ---
 
-## 📫 Connect With Me
+# 🔥 Contribution Streak
 
-📧 Email: janushd13@gmail.com
 
-🔗 LinkedIn:
+<img src="https://streak-stats.demolab.com?user=janush13&theme=tokyonight"/>
+
+
+---
+
+# 📫 Let's Connect
+
+
+📧 **Email**
+
+janushd13@gmail.com
+
+
+🔗 **LinkedIn**
+
 https://linkedin.com/in/janush-d-611613295
 
-🔗 GitHub:
+
+🔗 **GitHub**
+
 https://github.com/janush13
 
 
 ---
 
-⭐ Always learning, building, and improving.
+<div align="center">
+
+⭐ Turning ideas into applications | Learning • Building • Improving
+
+</div>
